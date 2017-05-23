@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableView_FoodPin/TableViewCell.swift"
+            timestampString = "517223985.404787"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.TableViewCell.myImageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
+                  timestampString = "517224125.317009"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.TableViewCell.myImageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
+                  timestampString = "517224125.31893"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.TableViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; TableView_FoodPin.TableViewCell"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
+                  timestampString = "517224125.320484"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.TableViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TableView_FoodPin.TableViewCell&gt;"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
+                  timestampString = "517224125.322014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
