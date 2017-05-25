@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TableView_FoodPin/TableViewCell.swift"
-            timestampString = "517223985.404787"
+            timestampString = "517400448.185778"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "12"
-            endingLineNumber = "12"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
             landmarkName = "TableViewCell"
             landmarkType = "3">
             <Locations>
@@ -22,31 +22,16 @@
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "TableView_FoodPin.TableViewCell.myImageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  symbolName = "TableView_FoodPin.TableViewCell.__deallocating_deinit"
                   moduleName = "TableView_FoodPin"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
-                  timestampString = "517224125.317009"
+                  timestampString = "517401476.8061"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "40">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TableView_FoodPin.TableViewCell.myImageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
-                  moduleName = "TableView_FoodPin"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
-                  timestampString = "517224125.31893"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "52">
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -56,12 +41,42 @@
                   moduleName = "TableView_FoodPin"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
-                  timestampString = "517224125.320484"
+                  timestampString = "517401476.808152"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
                   offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.TableViewCell.__allocating_init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; TableView_FoodPin.TableViewCell"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
+                  timestampString = "517401476.810457"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.TableViewCell.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TableView_FoodPin.TableViewCell&gt;"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
+                  timestampString = "517401476.812623"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -71,11 +86,105 @@
                   moduleName = "TableView_FoodPin"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/TableViewCell.swift"
-                  timestampString = "517224125.322014"
+                  timestampString = "517401476.815029"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableView_FoodPin/DetailViewController.swift"
+            timestampString = "517401098.501684"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableView_FoodPin/DetailViewController.swift"
+            timestampString = "517401399.715443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.DetailViewController.detailImageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/DetailViewController.swift"
+                  timestampString = "517401476.833281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.DetailViewController.detailImageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/DetailViewController.swift"
+                  timestampString = "517401476.837672"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.DetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; TableView_FoodPin.DetailViewController"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/DetailViewController.swift"
+                  timestampString = "517401476.839805"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView_FoodPin.DetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TableView_FoodPin.DetailViewController&gt;"
+                  moduleName = "TableView_FoodPin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leokao/Swift_TableView/TableView_FoodPin/TableView_FoodPin/DetailViewController.swift"
+                  timestampString = "517401476.842088"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
                   offsetFromSymbolStart = "36">
                </Location>
             </Locations>

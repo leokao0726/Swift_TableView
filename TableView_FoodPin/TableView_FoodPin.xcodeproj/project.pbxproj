@@ -13,6 +13,9 @@
 		AA3E4B941ED4281600F77CD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA3E4B921ED4281600F77CD5 /* LaunchScreen.storyboard */; };
 		AA3E4B9C1ED4290C00F77CD5 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3E4B9B1ED4290C00F77CD5 /* TableViewController.swift */; };
 		AA3E4B9E1ED42CD000F77CD5 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3E4B9D1ED42CD000F77CD5 /* TableViewCell.swift */; };
+		AA3E4BA61ED508FD00F77CD5 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3E4BA51ED508FD00F77CD5 /* Restaurant.swift */; };
+		AA3E4BA81ED50AFE00F77CD5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3E4BA71ED50AFE00F77CD5 /* DetailViewController.swift */; };
+		AA3E4BAA1ED6DE8000F77CD5 /* DetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3E4BA91ED6DE8000F77CD5 /* DetailTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		AA3E4B951ED4281600F77CD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA3E4B9B1ED4290C00F77CD5 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		AA3E4B9D1ED42CD000F77CD5 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		AA3E4BA51ED508FD00F77CD5 /* Restaurant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+		AA3E4BA71ED50AFE00F77CD5 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		AA3E4BA91ED6DE8000F77CD5 /* DetailTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				AA3E4B951ED4281600F77CD5 /* Info.plist */,
 				AA3E4B9B1ED4290C00F77CD5 /* TableViewController.swift */,
 				AA3E4B9D1ED42CD000F77CD5 /* TableViewCell.swift */,
+				AA3E4BA51ED508FD00F77CD5 /* Restaurant.swift */,
+				AA3E4BA71ED50AFE00F77CD5 /* DetailViewController.swift */,
+				AA3E4BA91ED6DE8000F77CD5 /* DetailTableViewCell.swift */,
 			);
 			path = TableView_FoodPin;
 			sourceTree = "<group>";
@@ -140,7 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA3E4BAA1ED6DE8000F77CD5 /* DetailTableViewCell.swift in Sources */,
+				AA3E4BA61ED508FD00F77CD5 /* Restaurant.swift in Sources */,
 				AA3E4B9E1ED42CD000F77CD5 /* TableViewCell.swift in Sources */,
+				AA3E4BA81ED50AFE00F77CD5 /* DetailViewController.swift in Sources */,
 				AA3E4B9C1ED4290C00F77CD5 /* TableViewController.swift in Sources */,
 				AA3E4B8A1ED4281600F77CD5 /* AppDelegate.swift in Sources */,
 			);
@@ -308,6 +320,7 @@
 				AA3E4B9A1ED4281600F77CD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
